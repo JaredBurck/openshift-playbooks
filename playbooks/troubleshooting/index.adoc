@@ -63,6 +63,8 @@ Commands to manage an application’s lifecycle including resource management, c
 == OCP Release Notes Known Issues
 
 The following release notes for each verion of OpenShift Container Platform summarizes all new features, major corrections from the previous version, and any known bugs upon general availability.
+* link:https://docs.openshift.com/container-platform/3.11/release_notes/ocp_3_11_release_notes.html#ocp-311-known-issues[OCP 3.11 Known Issues^], new features, changes, and bug fixes that pertain to OpenShift Container Platform 3.11 are included in this topic.
+* link:https://docs.openshift.com/container-platform/3.10/release_notes/ocp_3_10_release_notes.html#ocp-310-known-issues[OCP 3.10 Known Issues^], new features, changes, and bug fixes that pertain to OpenShift Container Platform 3.10 are included in this topic.
 * link:https://docs.openshift.com/container-platform/3.9/release_notes/ocp_3_9_release_notes.html#ocp-39-known-issues[OCP 3.9 Known Issues^], new features, changes, and bug fixes that pertain to OpenShift Container Platform 3.9 are included in this topic.
 * link:https://docs.openshift.com/container-platform/3.7/release_notes/ocp_3_7_release_notes.html#ocp-37-known-issues[OCP 3.7 Known Issues^], new features, changes, and bug fixes that pertain to OpenShift Container Platform 3.7 are included in this topic.
 * link:https://docs.openshift.com/container-platform/3.6/release_notes/ocp_3_6_release_notes.html#ocp-36-known-issues[OCP 3.6 Known Issues^], new features, changes, and bug fixes that pertain to OpenShift Container Platform 3.6 are included in this topic.
